@@ -1,6 +1,6 @@
 def first_challenge
-{
-  instructors: ["Ian", "Johann", "Alex"],
-  students: ["Andrew", "Howard", "Terrance", "Daniel", "Rachel", "Natalie"]
-}
+  epic_tragedy = {
+    montague: ["Ian", "Johann", "Alex"],
+    capulet: ["Andrew", "Howard", "Terrance", "Daniel", "Rachel", "Natalie"]
+  }
 end
