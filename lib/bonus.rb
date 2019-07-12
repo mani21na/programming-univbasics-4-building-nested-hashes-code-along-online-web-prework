@@ -21,11 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  puts hero[3]
-  puts heroine[3]
-  
-  hero[3] = "dead"
-  heroine[3] = 'dead'
+  puts epic_tragedy
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
