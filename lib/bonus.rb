@@ -21,7 +21,9 @@ def bonus
   }
 
   #code your solution here:
-
+  puts hero[3]
+  puts heroine[3]
+  
   hero[3] = "dead"
   heroine[3] = 'dead'
 
